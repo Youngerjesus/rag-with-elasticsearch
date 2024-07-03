@@ -1,0 +1,8 @@
+search-tutorial/.venv/
+.DS_Store
+search-tutorial/.vscode/
+search-tutorial/.ipynb_checkpoints/
+search-tutorial/.pytest_cache/
+search-tutorial/.mypy_cache/
+search-tutorial/.coverage
+search-tutorial/.DS_Store
